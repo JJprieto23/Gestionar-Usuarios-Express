@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "id": "00363bb1-b778-4281-89f7-976d21e2dccf",
+      "nombre": "Julian",
+      "email": "juliangmail.com",
+      "activo": true
+    },
+    {
+      "id": "cba957ff-7e2d-4abf-ac0d-2c53e58e5eab",
+      "nombre": "juan",
+      "email": "juan@gamil.com",
+      "activo": true
+    },
+    {
+      "id": "11161bc1-332b-4367-b293-e6b0e97da9b1",
+      "nombre": "maria",
+      "email": "maria@gmail.com",
+      "activo": true
+    },
+    {
+      "id": "69155609-4c0a-4711-9fae-6c4c692e1abd",
+      "nombre": "david",
+      "email": "",
+      "activo": false
+    },
+    {
+      "id": "5eb2f5b6-18cd-4640-8ed5-1b709d9947be",
+      "nombre": "",
+      "email": "",
+      "activo": false
+    }
+  ]
+}
